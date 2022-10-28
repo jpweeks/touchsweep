@@ -1,5 +1,5 @@
 {
-	"name": "touchsweep",
+	"name": "@jpweeks/touchsweep",
 	"version": "2.0.0",
 	"description": "Super tiny vanilla JS module to detect swipe direction",
 	"keywords": [
