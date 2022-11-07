@@ -13,7 +13,7 @@
 		"isolatedModules": true,
 		"jsx": "react",
 		"lib": ["DOM", "ESNext"],
-		"module": "UMD",
+		"module": "commonjs",
 		"moduleResolution": "Node",
 		"noEmit": false,
 		"noEmitHelpers": false,
